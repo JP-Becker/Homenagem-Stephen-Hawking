@@ -1,0 +1,129 @@
+.realizacoes {
+    text-align: center;
+    background-image: url(../img/céu-estrelado.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-bottom: 2.5rem;
+}
+
+.realizacoes__titulo {
+    font-size: 50px;
+    text-align: center;
+    font-family: 'Averia Libre';
+    color:#4682B4;
+    display: inline-block;
+    border-bottom: 3px solid #4682B4;
+    margin-top: 1.5rem;
+    margin-bottom: 5rem;
+}
+
+.realizacoes__div-radiacao {
+    display: flex;
+    flex-direction: row-reverse;
+    align-items: center;
+    margin: 0 6rem; 
+}
+
+.realizacoes__subtitulo-radiacao {
+    font-size: 24px;
+    font-family: 'Averia Libre';
+    font-style: italic;
+    color: #4682B4;
+    margin-bottom: .5rem;
+}
+
+.realizacoes__texto-radiacao {
+    font-size: 20px;
+    font-family: 'Averia Libre';
+    margin-left: 2rem;
+    color: #4682B4;
+    user-select: none;
+}
+
+.realizacoes__texto-radiacao:hover {
+    transform: scale(1.1);
+    transition: 1s;
+    color: #0047AB;
+}
+
+.realizacoes__imagem-radiacao {
+    width: 50%;
+    border: 5px solid #4682B4;
+    border-radius: 50px;
+    height: 275px;
+}
+
+.realizacoes__subtitulo-singularidade {
+    font-size: 24px;
+    font-family: 'Averia Libre';
+    font-style: italic;
+    color: #4682B4;
+    margin-bottom: .5rem;
+    margin-top: 5rem;
+}
+
+.realizacoes__div-singularidade {
+    display: flex;
+    flex-direction: row-reverse;
+    align-items: center;
+    margin: 0 6rem;
+}
+
+.realizacoes__imagem-singularidade {
+    width: 50%;
+    border: 5px solid #4682B4;
+    border-radius: 50px;
+    height: 275px;
+}
+
+.realizacoes__texto-singularidade {
+    font-size: 20px;
+    font-family: 'Averia Libre';
+    margin-right: 2rem;
+    color: #4682B4;
+    user-select: none;
+}
+
+.realizacoes__texto-singularidade:hover {
+    transform: scale(1.1);
+    transition: 1s;
+    color: #0047AB;
+}
+
+.realizacoes__subtitulo-deficiencia {
+    font-size: 24px;
+    font-family: 'Averia Libre';
+    font-style: italic;
+    color: #4682B4;
+    margin-bottom: .5rem;
+    margin-top: 5rem;
+}
+
+.realizacoes__div-deficiencia {
+    display: flex;
+    flex-direction: row-reverse;
+    align-items: center;
+    margin: 0 6rem;
+}
+
+.realizacoes__texto-deficiencia {
+    font-size: 20px;
+    font-family: 'Averia Libre';
+    margin-left: 2rem;
+    color: #4682B4;
+    user-select: none;
+}
+
+.realizacoes__texto-deficiencia:hover {
+    transform: scale(1.1);
+    transition: 1s;
+    color: #0047AB;
+}
+
+.realizacoes__imagem-deficiencia {
+    width: 50%;
+    border: 5px solid #4682B4;
+    border-radius: 50px;
+    height: 275px;
+}
+

@@ -1,0 +1,32 @@
+.rodape {
+    background-color: #4682B4;
+    text-align: center;
+    padding: 1.3rem 0;
+}
+
+.rodape__titulo {
+    font-size: 34px;
+    font-family: 'Amatic SC';
+    font-weight: 700;
+    color: beige;
+}
+
+.rodape__subtitulo {
+    font-size: 26px;
+    font-family: 'Averia Libre';
+    padding-top: 1rem;
+    color: beige;
+}
+
+.rodape__link-wikipedia {
+    text-decoration: underline ;
+}
+
+.rodape__inspiracao {
+    color: beige;
+    padding-top: .35rem;
+}
+
+.rodape__link-codepen {
+    text-decoration: underline;
+}

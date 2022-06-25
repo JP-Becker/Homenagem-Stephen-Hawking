@@ -1,0 +1,24 @@
+.sobre {
+    margin-top: 1.5rem;
+    text-align: center;
+}
+
+.sobre__titulo {
+    font-size: 50px;
+    text-align: center;
+    font-family: 'Averia Libre';
+    color:#4682B4;
+    display: inline-block;
+    border-bottom: 3px solid #4682B4;
+}
+
+.sobre__texto {
+    font-size: 23px;
+    font-family: 'Averia Libre';
+    margin: 0 6rem;
+    padding-top: 1.5rem;
+}
+
+.sobre__texto-cor {
+    color: #4682B4;
+}

@@ -1,0 +1,39 @@
+
+.cabecalho {
+    height: 100vh;
+    background-image: url(../img/nobg-Stephen.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.efeito {
+    height: 100%;
+    background: radial-gradient(circle, rgba(185,185,185,0.2),  rgba(40,40,40, 0.6));
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: beige;
+}
+
+.cabecalho__titulo {
+    font-size: 76px;
+    font-family: 'Amatic SC';
+    font-weight: 700;
+    margin-bottom: 1.5rem;
+    border-left: 3px solid beige;
+    border-right: 3px solid beige;
+    padding: 0 .5rem;
+}
+
+.cabecalho__subtitulo {
+    font-size: 40px;
+    font-family: 'Amatic SC';
+    padding-bottom: .5rem;
+}
+
+.cabecalho__tempo {
+    font-size: 26px;
+}
